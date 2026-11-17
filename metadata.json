@@ -1,0 +1,6 @@
+{
+  "name": "Sri Lanka Waving Flag — 3D Interactive Display",
+  "description": "Interactive 3D waving National Flag of Sri Lanka with realistic cloth physics, ceremonial flagpole, and Next.js source export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
